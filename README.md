@@ -1,6 +1,6 @@
 ---
-description: ubuntu的基本使用
+description: 基本操的使用
 ---
 
-# ubuntu 命令
+# 基本操作命令
 

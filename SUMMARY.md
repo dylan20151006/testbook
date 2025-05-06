@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ubuntu 命令](README.md)
+* [基本操作命令](README.md)
 
 ## 分类
 
